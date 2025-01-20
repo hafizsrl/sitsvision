@@ -5,4 +5,7 @@ use &LO switch key
 
 <<"This is a text"&L0>>
 
+You can also use normal HTML comment.
+
+<!-- Normal Comment -->
 
