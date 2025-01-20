@@ -9,3 +9,4 @@ use &LO switch key
 You can also use html style of comment
 
 <!-- Normal HTML Comment -->
+<!-- This will not be read by sits -->
