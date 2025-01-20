@@ -9,3 +9,7 @@ You can also use normal HTML comment.
 
 <!-- Normal Comment -->
 
+You can also use html style of comment
+
+<!-- Normal HTML Comment -->
+<!-- This will not be read by sits -->
