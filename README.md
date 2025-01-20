@@ -7,5 +7,6 @@ Sits evision tutorial.
 3.SEL Statement
 4.DEBUG Statement
 5.Adavance SRL
+6.Batch Jobs
 
 
