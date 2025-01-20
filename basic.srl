@@ -6,3 +6,4 @@ use &LO switch key
 <<"This is a text"&L0>>
 
 
+You can also use html style of comment
