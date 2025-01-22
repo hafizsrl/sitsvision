@@ -14,7 +14,7 @@ Every letter must be part of a **Standard Letter Group (SLG)** . Letters and rep
 
 2.Basic SRL
 
-SRL sytax start with << and end with >>
+SRL sytax start with << and end with >> . You can add & the end of sytax and add the key parameter. for example &L0 usually use for comment.
 
 3.SEL Statement
 4.DEBUG Statement
