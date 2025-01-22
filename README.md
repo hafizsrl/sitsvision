@@ -3,6 +3,8 @@
 Sits evision tutorial.
 
 #Table of content
+
+
 1.Introduction
 
 The Standard Reports and Letters (SRL) system helps users create different types of reports, SMS messages, emails, labels, and other documents (called letter types). Users can create these documents in the SRL screen and generate or print them using the **Generate** and **Print** options under the **Current** or **All** menus. These options are available from the section that organizes the letter types.
@@ -11,7 +13,7 @@ Every letter must be part of a **Standard Letter Group (SLG)** . Letters and rep
 
 
 2.Basic SRL
-
+SRL sytax start with << and end with >>
 
 3.SEL Statement
 4.DEBUG Statement
